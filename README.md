@@ -28,7 +28,7 @@ For the generated animated GIFs, static visual comparisons, and reproducible scr
 ---
 
 ## Hard Task: Interactive Draw-Data Exploration
-**PR Link:** https://github.com/natydasilva/classbound/pull/3
+**PR Link:** https://github.com/natydasilva/classbound/pull/4
 **Location:** [`/hard`](./hard)
 
 **Summary:**
